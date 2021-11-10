@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">My expandable listview</string>
+
+    <string-array name="header_name">
+
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+        <item>A</item>
+
+
+    </string-array>
+
+    <string-array name="child_Details">
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+        <item> I will also show how to modify, delete, loop over json data. At the end, I will explain how
+            to do the conversion between json data and javascript data.   </item>
+
+
+    </string-array>
+
+
+</resources>
